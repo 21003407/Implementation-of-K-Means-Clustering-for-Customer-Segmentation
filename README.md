@@ -22,8 +22,8 @@ Program to implement the K Means Clustering for Customer
 Segmentation.
 
 
-Developed by: HARSHAVARDHINI M
-RegisterNumber: 212221240015
+Developed by: A Joans jay authers
+RegisterNumber: 212221240019
 
 
 import pandas as pd
